@@ -1,5 +1,6 @@
 # AYUSH PANDEY WORLD WEB
-![](./particle.jpg)
+<a href="C:\Users\Sanjeev\Desktop\Ayush.jpeg">Ayush Pandey</a>
+C:\Users\Sanjeev\Desktop.jpeg)
 
 <h1 style="color:red;">Welcome to Ayush Pandey Profile</h1>
 
