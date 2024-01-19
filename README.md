@@ -1,8 +1,7 @@
-# Particle Jekyll Theme
-
+# AYUSH PANDEY WORLD WEB
 ![](./particle.jpg)
 
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+<h1><b>Welcome to Ayush Pandey Profile</b></h1>
 
 The Theme features:
 
