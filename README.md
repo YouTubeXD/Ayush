@@ -1,7 +1,7 @@
 # AYUSH PANDEY WORLD WEB
 ![](./particle.jpg)
 
-<h1><b>Welcome to Ayush Pandey Profile</b></h1>
+<h1 style="background-color:DodgerBlue;"><b>Welcome to Ayush Pandey Profile</b></h1>
 
 The Theme features:
 
